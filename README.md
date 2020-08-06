@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/andrewtempany/andrewtempany/master/github-header.jpg "Header")]
+![Header](https://raw.githubusercontent.com/andrewtempany/andrewtempany/master/github-header.jpg "Header")
 
 
 I've just complete the Enspiral Dev Academy Bootcamp which had me pump through about 700-800 hours of coding in 15 weeks!

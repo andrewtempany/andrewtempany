@@ -12,9 +12,9 @@ So far I've learnt:
 * Express.js
 * Knex.js
 
-A recent project was a rapid prototype called "1000 Words". It's a small game to get friends and family to interact digitally during COVID19. I've used it to explore Web Sockets and the bringing the canvas element into react using Konva.js!
+A recent project I've worked on was a rapid prototype called "1000 Words". We made it as a small team of recent EDA graduates. It's a small game to get friends and family to interact digitally during COVID19. We used it to explore how Web Sockets work and what they can do, and bringing the canvas element into react using Konva.js!
 
-Since finishing the bootcamp, I've been exploring:
+Since finishing the bootcamp, I've been exploring different languages and tech to get a better idea of what excites me and how I can make the most impact in the tech world. Here's a few things that I've been experimenting with:
 * Kotlin
 * C#
 * React Native
